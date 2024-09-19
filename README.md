@@ -15,3 +15,27 @@ The key objective of this project are:
 1. Exploratory Data Analysis (EDA): Analyze the dataset to gain insights, clean the data, and perform visualizations.
 2. Preprocessing: Perform text cleaning (e.g., removing special characters, stopwords, etc.) to prepare the tweets for sentiment analysis.
 
+#### Set up and Installation
+To run this project, follow the steps below:
+
+##### Prerequisites
+You need to have Python and the following libraries installed:
+* pandas
+* numpy
+* matplotlib
+* seaborn
+
+#### Installation
+1. Clone my repository
+```
+   git clone [https://github.com/your-username/twitter-sentiment-analysis.git](https://github.com/NyeishaJPace/TwitterEDA.git)
+   cd SocialM
+```
+2. Install dependencies:
+```Python
+pip install -r requirements.txt
+```
+3. Run the Jupyter notebook:
+jupyter notebook
+
+
