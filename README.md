@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-This project focuses on performing sentiment analysis on a dataset of Twitter tweets using natural language processing (NLP) techniques. The goal is to classify tweets as positive, negative, or neutral based on their content. 
+This project focuses on performing sentiment analysis on a dataset of Twitter tweets using natural language processing (NLP) techniques. The goal is to explore and analyze these tweets based on their content. 
 
 ## Dataset
 The dataset used for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140/data). The dataset contains the following columns:
